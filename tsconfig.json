@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+	  "module": "commonjs",
+	  "target": "es6",
+	  "outDir": "out",
+	  "lib": ["es2018", "dom"],
+	  "sourceMap": true,
+	  "rootDir": "src",
+	  "strict": true
+	},
+	"include": ["src", "src/test"], // Add "src/test" here
+	"exclude": ["node_modules"]
+  }
