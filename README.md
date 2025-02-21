@@ -16,3 +16,4 @@ A VS Code extension that cleans selected code using an LLM.
 3. Select code and run the "Clean Selected Code" command.# clean-code
 # clean-code
 # clean-code
+# clean-code
